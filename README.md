@@ -13,7 +13,6 @@ The primary goal of this repository is to document and practice the fundamentals
 
 ## ✅ Status
 
-**Completed for now**  
 This repository currently contains all the essential concepts and implementations I set out to learn. Further updates might be added as I explore more advanced jQuery use-cases or integrate it into larger projects.
 
 ---
