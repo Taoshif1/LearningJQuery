@@ -1,5 +1,5 @@
 # Learning jQuery 📚✨
-[![Status: Learning Completed (for now!)](https://img.shields.io/badge/Status-Learning%20Completed%20(for%20now!)-brightgreen.svg?style=for-the-badge)](https://github.com/Taoshif1/LearningTS)
+[![Status: Learning Completed (for now!)](https://img.shields.io/badge/Status-Learning%20Completed%20-brightgreen.svg?style=for-the-badge)](https://github.com/Taoshif1/LearningTS)
 
 Welcome to the **LearningJQuery** repository — a beginner-friendly yet powerful journey into the world of jQuery! This project serves as a hands-on playground for mastering one of the most popular JavaScript libraries used to simplify HTML DOM tree traversal, event handling, animations and Ajax interactions.
 
